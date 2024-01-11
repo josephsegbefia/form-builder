@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "label": "Name",
+      "type": "input",
+      "fieldName": "name",
+      "placeholder": "Daniel Akusevi",
+      "helpText": "supply your first name and last",
+      "required": true
+    },
+    {
+      "label": "Password",
+      "type": "password",
+      "fieldName":"password",
+      "required": true
+    },
+    {
+      "label": "Phone number",
+      "type": "text",
+      "fieldName": "phone",
+      "placeholder": "+233 207849440"
+    }
+  ]
+}
