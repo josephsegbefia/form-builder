@@ -19,6 +19,11 @@
       "type": "text",
       "fieldName": "phone",
       "placeholder": "+233 207849440"
+    },
+    {
+      "label": "Nickname",
+      "type": "text",
+      "fieldName": "alias"
     }
   ]
 }
